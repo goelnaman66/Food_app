@@ -1,0 +1,1611 @@
+[
+    {
+      "info": {
+        "id": "109429",
+        "name": "Smart Pind",
+        "cloudinaryImageId": "mvybtqpjuwbbf4nhos1e",
+        "locality": "IIT Main Gate",
+        "areaName": "Inda & Malancha",
+        "costForTwo": "₹150 for two",
+        "cuisines": [
+          "North Indian",
+          "Chinese"
+        ],
+        "avgRating": 4,
+        "parentId": "189650",
+        "avgRatingString": "4.0",
+        "totalRatingsString": "1K+",
+        "sla": {
+          "deliveryTime": 27,
+          "lastMileTravel": 2.4,
+          "serviceability": "SERVICEABLE",
+          "slaString": "25-30 mins",
+          "lastMileTravelString": "2.4 km",
+          "iconType": "ICON_TYPE_EMPTY"
+        },
+        "availability": {
+          "nextCloseTime": "2024-03-09 23:00:00",
+          "opened": true
+        },
+        "badges": {
+          
+        },
+        "isOpen": true,
+        "type": "F",
+        "badgesV2": {
+          "entityBadges": {
+            "imageBased": {
+              
+            },
+            "textBased": {
+              
+            },
+            "textExtendedBadges": {
+              
+            }
+          }
+        },
+        "aggregatedDiscountInfoV3": {
+          "header": "₹50 OFF",
+          "subHeader": "ABOVE ₹199",
+          "discountTag": "FLAT DEAL"
+        },
+        "differentiatedUi": {
+          "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+          "differentiatedUiMediaDetails": {
+            "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+            "lottie": {
+              
+            },
+            "video": {
+              
+            }
+          }
+        },
+        "reviewsSummary": {
+          
+        },
+        "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+        "restaurantOfferPresentationInfo": {
+          
+        }
+      },
+      "analytics": {
+        
+      },
+      "cta": {
+        "link": "https://www.swiggy.com/restaurants/smart-pind-iit-main-gate-inda-and-malancha-kharagpur-109429",
+        "type": "WEBLINK"
+      }
+    },
+    {
+      "info": {
+        "id": "98033",
+        "name": "Dreamland Restaurant",
+        "cloudinaryImageId": "fhayzxfn2nmzsfakqmah",
+        "locality": "IIT Main Road",
+        "areaName": "Inda & Malancha",
+        "costForTwo": "₹250 for two",
+        "cuisines": [
+          "North Indian",
+          "Chinese",
+          "Indian"
+        ],
+        "avgRating": 4.2,
+        "parentId": "74804",
+        "avgRatingString": "4.2",
+        "totalRatingsString": "5K+",
+        "sla": {
+          "deliveryTime": 24,
+          "lastMileTravel": 2.6,
+          "serviceability": "SERVICEABLE",
+          "slaString": "20-25 mins",
+          "lastMileTravelString": "2.6 km",
+          "iconType": "ICON_TYPE_EMPTY"
+        },
+        "availability": {
+          "nextCloseTime": "2024-03-09 15:00:00",
+          "opened": true
+        },
+        "badges": {
+          "imageBadges": [
+            {
+              "imageId": "v1690360529/Ratnesh_Badges/Only_on_swiggy_badge_4x.png",
+              "description": "OnlyOnSwiggy"
+            }
+          ]
+        },
+        "isOpen": true,
+        "type": "F",
+        "badgesV2": {
+          "entityBadges": {
+            "imageBased": {
+              "badgeObject": [
+                {
+                  "attributes": {
+                    "description": "OnlyOnSwiggy",
+                    "imageId": "v1690360529/Ratnesh_Badges/Only_on_swiggy_badge_4x.png"
+                  }
+                }
+              ]
+            },
+            "textBased": {
+              
+            },
+            "textExtendedBadges": {
+              
+            }
+          }
+        },
+        "aggregatedDiscountInfoV3": {
+          "header": "₹125 OFF",
+          "subHeader": "ABOVE ₹249",
+          "discountTag": "FLAT DEAL"
+        },
+        "differentiatedUi": {
+          "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+          "differentiatedUiMediaDetails": {
+            "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+            "lottie": {
+              
+            },
+            "video": {
+              
+            }
+          }
+        },
+        "reviewsSummary": {
+          
+        },
+        "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+        "restaurantOfferPresentationInfo": {
+          
+        }
+      },
+      "analytics": {
+        
+      },
+      "cta": {
+        "link": "https://www.swiggy.com/restaurants/dreamland-restaurant-iit-main-road-inda-and-malancha-kharagpur-98033",
+        "type": "WEBLINK"
+      }
+    },
+    {
+      "info": {
+        "id": "425665",
+        "name": "Ashrafi Biryani",
+        "cloudinaryImageId": "kx3s9wkpt9w7stgxtyvm",
+        "locality": "New Taxi Stand Main Road",
+        "areaName": "Inda & Malancha",
+        "costForTwo": "₹150 for two",
+        "cuisines": [
+          "Biryani",
+          "North Indian"
+        ],
+        "avgRating": 4.2,
+        "parentId": "37054",
+        "avgRatingString": "4.2",
+        "totalRatingsString": "500+",
+        "sla": {
+          "deliveryTime": 36,
+          "lastMileTravel": 5.5,
+          "serviceability": "SERVICEABLE",
+          "slaString": "35-40 mins",
+          "lastMileTravelString": "5.5 km",
+          "iconType": "ICON_TYPE_EMPTY"
+        },
+        "availability": {
+          "nextCloseTime": "2024-03-09 23:00:00",
+          "opened": true
+        },
+        "badges": {
+          
+        },
+        "isOpen": true,
+        "type": "F",
+        "badgesV2": {
+          "entityBadges": {
+            "imageBased": {
+              
+            },
+            "textBased": {
+              
+            },
+            "textExtendedBadges": {
+              
+            }
+          }
+        },
+        "aggregatedDiscountInfoV3": {
+          "header": "10% OFF",
+          "subHeader": "UPTO ₹40"
+        },
+        "differentiatedUi": {
+          "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+          "differentiatedUiMediaDetails": {
+            "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+            "lottie": {
+              
+            },
+            "video": {
+              
+            }
+          }
+        },
+        "reviewsSummary": {
+          
+        },
+        "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+        "restaurantOfferPresentationInfo": {
+          
+        }
+      },
+      "analytics": {
+        
+      },
+      "cta": {
+        "link": "https://www.swiggy.com/restaurants/ashrafi-biryani-new-taxi-stand-main-road-inda-and-malancha-kharagpur-425665",
+        "type": "WEBLINK"
+      }
+    },
+    {
+      "info": {
+        "id": "126026",
+        "name": "Taaz Biryani",
+        "cloudinaryImageId": "jhr7i55mishzaua5ydsh",
+        "locality": "IIT Main Road",
+        "areaName": "Laitumkhrah",
+        "costForTwo": "₹500 for two",
+        "cuisines": [
+          "North Indian",
+          "Chinese",
+          "Indian"
+        ],
+        "avgRating": 4.2,
+        "parentId": "199748",
+        "avgRatingString": "4.2",
+        "totalRatingsString": "5K+",
+        "sla": {
+          "deliveryTime": 36,
+          "lastMileTravel": 5.5,
+          "serviceability": "SERVICEABLE",
+          "slaString": "35-40 mins",
+          "lastMileTravelString": "5.5 km",
+          "iconType": "ICON_TYPE_EMPTY"
+        },
+        "availability": {
+          "nextCloseTime": "2024-03-09 23:00:00",
+          "opened": true
+        },
+        "badges": {
+          
+        },
+        "isOpen": true,
+        "type": "F",
+        "badgesV2": {
+          "entityBadges": {
+            "imageBased": {
+              
+            },
+            "textBased": {
+              
+            },
+            "textExtendedBadges": {
+              
+            }
+          }
+        },
+        "aggregatedDiscountInfoV3": {
+          "header": "40% OFF",
+          "subHeader": "UPTO ₹80"
+        },
+        "differentiatedUi": {
+          "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+          "differentiatedUiMediaDetails": {
+            "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+            "lottie": {
+              
+            },
+            "video": {
+              
+            }
+          }
+        },
+        "reviewsSummary": {
+          
+        },
+        "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+        "restaurantOfferPresentationInfo": {
+          
+        }
+      },
+      "analytics": {
+        
+      },
+      "cta": {
+        "link": "https://www.swiggy.com/restaurants/taaz-biryani-iit-main-road-laitumkhrah-kharagpur-126026",
+        "type": "WEBLINK"
+      }
+    },
+    {
+      "info": {
+        "id": "417881",
+        "name": "New Murgan vilas Restaurant",
+        "cloudinaryImageId": "ilhywml4pn8ktewumckx",
+        "locality": "Unnamed Road",
+        "areaName": "Inda & Malancha",
+        "costForTwo": "₹200 for two",
+        "cuisines": [
+          "South Indian"
+        ],
+        "avgRating": 4.3,
+        "veg": true,
+        "parentId": "232480",
+        "avgRatingString": "4.3",
+        "totalRatingsString": "500+",
+        "sla": {
+          "deliveryTime": 34,
+          "lastMileTravel": 4.6,
+          "serviceability": "SERVICEABLE",
+          "slaString": "30-35 mins",
+          "lastMileTravelString": "4.6 km",
+          "iconType": "ICON_TYPE_EMPTY"
+        },
+        "availability": {
+          "nextCloseTime": "2024-03-09 22:00:00",
+          "opened": true
+        },
+        "badges": {
+          "imageBadges": [
+            {
+              "imageId": "v1695133679/badges/Pure_Veg111.png",
+              "description": "pureveg"
+            }
+          ]
+        },
+        "isOpen": true,
+        "type": "F",
+        "badgesV2": {
+          "entityBadges": {
+            "imageBased": {
+              "badgeObject": [
+                {
+                  "attributes": {
+                    "description": "pureveg",
+                    "imageId": "v1695133679/badges/Pure_Veg111.png"
+                  }
+                }
+              ]
+            },
+            "textBased": {
+              
+            },
+            "textExtendedBadges": {
+              
+            }
+          }
+        },
+        "aggregatedDiscountInfoV3": {
+          "header": "20% OFF",
+          "subHeader": "UPTO ₹50"
+        },
+        "differentiatedUi": {
+          "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+          "differentiatedUiMediaDetails": {
+            "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+            "lottie": {
+              
+            },
+            "video": {
+              
+            }
+          }
+        },
+        "reviewsSummary": {
+          
+        },
+        "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+        "restaurantOfferPresentationInfo": {
+          
+        }
+      },
+      "analytics": {
+        
+      },
+      "cta": {
+        "link": "https://www.swiggy.com/restaurants/new-murgan-vilas-restaurant-unnamed-road-inda-and-malancha-kharagpur-417881",
+        "type": "WEBLINK"
+      }
+    },
+    {
+      "info": {
+        "id": "438144",
+        "name": "Cake & Bake",
+        "cloudinaryImageId": "ryz8cxjkkairsw4alkzh",
+        "locality": "Prembazar",
+        "areaName": "Inda & Malancha",
+        "costForTwo": "₹200 for two",
+        "cuisines": [
+          "Bakery"
+        ],
+        "avgRating": 4.2,
+        "parentId": "54661",
+        "avgRatingString": "4.2",
+        "totalRatingsString": "100+",
+        "sla": {
+          "deliveryTime": 51,
+          "lastMileTravel": 2.9,
+          "serviceability": "SERVICEABLE",
+          "slaString": "50-55 mins",
+          "lastMileTravelString": "2.9 km",
+          "iconType": "ICON_TYPE_EMPTY"
+        },
+        "availability": {
+          "nextCloseTime": "2024-03-09 21:30:00",
+          "opened": true
+        },
+        "badges": {
+          
+        },
+        "isOpen": true,
+        "type": "F",
+        "badgesV2": {
+          "entityBadges": {
+            "imageBased": {
+              
+            },
+            "textBased": {
+              
+            },
+            "textExtendedBadges": {
+              
+            }
+          }
+        },
+        "aggregatedDiscountInfoV3": {
+          "header": "40% OFF",
+          "subHeader": "UPTO ₹80"
+        },
+        "differentiatedUi": {
+          "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+          "differentiatedUiMediaDetails": {
+            "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+            "lottie": {
+              
+            },
+            "video": {
+              
+            }
+          }
+        },
+        "reviewsSummary": {
+          
+        },
+        "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+        "restaurantOfferPresentationInfo": {
+          
+        }
+      },
+      "analytics": {
+        
+      },
+      "cta": {
+        "link": "https://www.swiggy.com/restaurants/cake-and-bake-prembazar-inda-and-malancha-kharagpur-438144",
+        "type": "WEBLINK"
+      }
+    },
+    {
+      "info": {
+        "id": "252428",
+        "name": "Mr. Pizza",
+        "cloudinaryImageId": "fbyqacfz2tp6vyepve2y",
+        "locality": "Iit Bye Pass Road",
+        "areaName": "Inda & Malancha",
+        "costForTwo": "₹200 for two",
+        "cuisines": [
+          "Pizzas",
+          "American"
+        ],
+        "avgRating": 4.5,
+        "parentId": "140348",
+        "avgRatingString": "4.5",
+        "totalRatingsString": "500+",
+        "sla": {
+          "deliveryTime": 27,
+          "lastMileTravel": 0.2,
+          "serviceability": "SERVICEABLE",
+          "slaString": "25-30 mins",
+          "lastMileTravelString": "0.2 km",
+          "iconType": "ICON_TYPE_EMPTY"
+        },
+        "availability": {
+          "nextCloseTime": "2024-03-09 21:00:00",
+          "opened": true
+        },
+        "badges": {
+          
+        },
+        "isOpen": true,
+        "aggregatedDiscountInfoV2": {
+          
+        },
+        "type": "F",
+        "badgesV2": {
+          "entityBadges": {
+            "imageBased": {
+              
+            },
+            "textBased": {
+              
+            },
+            "textExtendedBadges": {
+              
+            }
+          }
+        },
+        "differentiatedUi": {
+          "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+          "differentiatedUiMediaDetails": {
+            "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+            "lottie": {
+              
+            },
+            "video": {
+              
+            }
+          }
+        },
+        "reviewsSummary": {
+          
+        },
+        "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+        "restaurantOfferPresentationInfo": {
+          
+        }
+      },
+      "analytics": {
+        
+      },
+      "cta": {
+        "link": "https://www.swiggy.com/restaurants/mr-pizza-iit-bye-pass-road-inda-and-malancha-kharagpur-252428",
+        "type": "WEBLINK"
+      }
+    },
+    {
+      "info": {
+        "id": "400006",
+        "name": "Sadda Adda",
+        "cloudinaryImageId": "un6qdptq2oxfcfv1esr7",
+        "locality": "IIT Main Gate",
+        "areaName": "Inda & Malancha",
+        "costForTwo": "₹200 for two",
+        "cuisines": [
+          "Snacks",
+          "American",
+          "Chinese"
+        ],
+        "avgRating": 4.1,
+        "parentId": "9122",
+        "avgRatingString": "4.1",
+        "totalRatingsString": "500+",
+        "sla": {
+          "deliveryTime": 46,
+          "lastMileTravel": 1.8,
+          "serviceability": "SERVICEABLE",
+          "slaString": "45-50 mins",
+          "lastMileTravelString": "1.8 km",
+          "iconType": "ICON_TYPE_EMPTY"
+        },
+        "availability": {
+          "nextCloseTime": "2024-03-09 23:30:00",
+          "opened": true
+        },
+        "badges": {
+          
+        },
+        "isOpen": true,
+        "type": "F",
+        "badgesV2": {
+          "entityBadges": {
+            "imageBased": {
+              
+            },
+            "textBased": {
+              
+            },
+            "textExtendedBadges": {
+              
+            }
+          }
+        },
+        "aggregatedDiscountInfoV3": {
+          "header": "FREE ITEM"
+        },
+        "differentiatedUi": {
+          "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+          "differentiatedUiMediaDetails": {
+            "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+            "lottie": {
+              
+            },
+            "video": {
+              
+            }
+          }
+        },
+        "reviewsSummary": {
+          
+        },
+        "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+        "restaurantOfferPresentationInfo": {
+          
+        }
+      },
+      "analytics": {
+        
+      },
+      "cta": {
+        "link": "https://www.swiggy.com/restaurants/sadda-adda-iit-main-gate-inda-and-malancha-kharagpur-400006",
+        "type": "WEBLINK"
+      }
+    },
+    {
+      "info": {
+        "id": "128297",
+        "name": "Amigos",
+        "cloudinaryImageId": "ccoxhfqbrmjrdv3s0onh",
+        "locality": "IIT Main Road",
+        "areaName": "Inda & Malancha",
+        "costForTwo": "₹200 for two",
+        "cuisines": [
+          "North Indian",
+          "South Indian",
+          "Indian"
+        ],
+        "avgRating": 4.2,
+        "parentId": "12698",
+        "avgRatingString": "4.2",
+        "totalRatingsString": "5K+",
+        "sla": {
+          "deliveryTime": 30,
+          "lastMileTravel": 2.8,
+          "serviceability": "SERVICEABLE",
+          "slaString": "30-35 mins",
+          "lastMileTravelString": "2.8 km",
+          "iconType": "ICON_TYPE_EMPTY"
+        },
+        "availability": {
+          "nextCloseTime": "2024-03-09 23:45:00",
+          "opened": true
+        },
+        "badges": {
+          
+        },
+        "isOpen": true,
+        "type": "F",
+        "badgesV2": {
+          "entityBadges": {
+            "imageBased": {
+              
+            },
+            "textBased": {
+              
+            },
+            "textExtendedBadges": {
+              
+            }
+          }
+        },
+        "aggregatedDiscountInfoV3": {
+          "header": "20% OFF",
+          "subHeader": "UPTO ₹50"
+        },
+        "differentiatedUi": {
+          "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+          "differentiatedUiMediaDetails": {
+            "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+            "lottie": {
+              
+            },
+            "video": {
+              
+            }
+          }
+        },
+        "reviewsSummary": {
+          
+        },
+        "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+        "restaurantOfferPresentationInfo": {
+          
+        }
+      },
+      "analytics": {
+        
+      },
+      "cta": {
+        "link": "https://www.swiggy.com/restaurants/amigos-iit-main-road-inda-and-malancha-kharagpur-128297",
+        "type": "WEBLINK"
+      }
+    },
+    {
+      "info": {
+        "id": "582371",
+        "name": "Heritage Annex",
+        "cloudinaryImageId": "ae1r7wrpdlwzn88bpvfy",
+        "locality": "IIT Main Gate",
+        "areaName": "Inda & Malancha",
+        "costForTwo": "₹200 for two",
+        "cuisines": [
+          "North Indian",
+          "Fast Food",
+          "Snacks",
+          "Chinese",
+          "Beverages"
+        ],
+        "avgRating": 4,
+        "parentId": "348631",
+        "avgRatingString": "4.0",
+        "totalRatingsString": "100+",
+        "sla": {
+          "deliveryTime": 37,
+          "lastMileTravel": 2.3,
+          "serviceability": "SERVICEABLE",
+          "slaString": "35-40 mins",
+          "lastMileTravelString": "2.3 km",
+          "iconType": "ICON_TYPE_EMPTY"
+        },
+        "availability": {
+          "nextCloseTime": "2024-03-09 21:50:00",
+          "opened": true
+        },
+        "badges": {
+          
+        },
+        "isOpen": true,
+        "type": "F",
+        "badgesV2": {
+          "entityBadges": {
+            "imageBased": {
+              
+            },
+            "textBased": {
+              
+            },
+            "textExtendedBadges": {
+              
+            }
+          }
+        },
+        "aggregatedDiscountInfoV3": {
+          "header": "20% OFF",
+          "subHeader": "UPTO ₹50"
+        },
+        "differentiatedUi": {
+          "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+          "differentiatedUiMediaDetails": {
+            "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+            "lottie": {
+              
+            },
+            "video": {
+              
+            }
+          }
+        },
+        "reviewsSummary": {
+          
+        },
+        "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+        "restaurantOfferPresentationInfo": {
+          
+        }
+      },
+      "analytics": {
+        
+      },
+      "cta": {
+        "link": "https://www.swiggy.com/restaurants/heritage-annex-iit-main-gate-inda-and-malancha-kharagpur-582371",
+        "type": "WEBLINK"
+      }
+    },
+    {
+      "info": {
+        "id": "464887",
+        "name": "Subway",
+        "cloudinaryImageId": "63178e3e64d503a479f2a2048a474552",
+        "locality": "IIT Main Gate",
+        "areaName": "IIT Kharagpur",
+        "costForTwo": "₹200 for two",
+        "cuisines": [
+          "Snacks",
+          "Salads",
+          "Fast Food",
+          "Desserts",
+          "Beverages"
+        ],
+        "avgRating": 4.1,
+        "parentId": "2",
+        "avgRatingString": "4.1",
+        "totalRatingsString": "500+",
+        "sla": {
+          "deliveryTime": 34,
+          "lastMileTravel": 3,
+          "serviceability": "SERVICEABLE",
+          "slaString": "30-35 mins",
+          "lastMileTravelString": "3.0 km",
+          "iconType": "ICON_TYPE_EMPTY"
+        },
+        "availability": {
+          "nextCloseTime": "2024-03-09 20:30:00",
+          "opened": true
+        },
+        "badges": {
+          
+        },
+        "isOpen": true,
+        "aggregatedDiscountInfoV2": {
+          
+        },
+        "type": "F",
+        "badgesV2": {
+          "entityBadges": {
+            "imageBased": {
+              
+            },
+            "textBased": {
+              
+            },
+            "textExtendedBadges": {
+              
+            }
+          }
+        },
+        "differentiatedUi": {
+          "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+          "differentiatedUiMediaDetails": {
+            "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+            "lottie": {
+              
+            },
+            "video": {
+              
+            }
+          }
+        },
+        "reviewsSummary": {
+          
+        },
+        "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+        "restaurantOfferPresentationInfo": {
+          
+        }
+      },
+      "analytics": {
+        
+      },
+      "cta": {
+        "link": "https://www.swiggy.com/restaurants/subway-iit-main-gate-iit-kharagpur-kharagpur-464887",
+        "type": "WEBLINK"
+      }
+    },
+    {
+      "info": {
+        "id": "137727",
+        "name": "Buddha Bites",
+        "cloudinaryImageId": "qnp6oas8hfycyhmr4nff",
+        "locality": "IIT Main Road",
+        "areaName": "Inda & Malancha",
+        "costForTwo": "₹200 for two",
+        "cuisines": [
+          "Chinese",
+          "Fast Food"
+        ],
+        "avgRating": 3.6,
+        "parentId": "2058",
+        "avgRatingString": "3.6",
+        "totalRatingsString": "1K+",
+        "sla": {
+          "deliveryTime": 39,
+          "lastMileTravel": 1.8,
+          "serviceability": "SERVICEABLE",
+          "slaString": "35-40 mins",
+          "lastMileTravelString": "1.8 km",
+          "iconType": "ICON_TYPE_EMPTY"
+        },
+        "availability": {
+          "nextCloseTime": "2024-03-09 23:00:00",
+          "opened": true
+        },
+        "badges": {
+          
+        },
+        "isOpen": true,
+        "type": "F",
+        "badgesV2": {
+          "entityBadges": {
+            "imageBased": {
+              
+            },
+            "textBased": {
+              
+            },
+            "textExtendedBadges": {
+              
+            }
+          }
+        },
+        "aggregatedDiscountInfoV3": {
+          "header": "₹125 OFF",
+          "subHeader": "ABOVE ₹199",
+          "discountTag": "FLAT DEAL"
+        },
+        "differentiatedUi": {
+          "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+          "differentiatedUiMediaDetails": {
+            "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+            "lottie": {
+              
+            },
+            "video": {
+              
+            }
+          }
+        },
+        "reviewsSummary": {
+          
+        },
+        "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+        "restaurantOfferPresentationInfo": {
+          
+        }
+      },
+      "analytics": {
+        
+      },
+      "cta": {
+        "link": "https://www.swiggy.com/restaurants/buddha-bites-iit-main-road-inda-and-malancha-kharagpur-137727",
+        "type": "WEBLINK"
+      }
+    },
+    {
+      "info": {
+        "id": "98788",
+        "name": "Dakshin",
+        "cloudinaryImageId": "ojiel7br4ckl1xgze5d8",
+        "locality": "Prem Bazar",
+        "areaName": "Inda & Malancha",
+        "costForTwo": "₹200 for two",
+        "cuisines": [
+          "South Indian",
+          "Beverages",
+          "North Indian",
+          "Thalis"
+        ],
+        "avgRating": 4.2,
+        "parentId": "306",
+        "avgRatingString": "4.2",
+        "totalRatingsString": "5K+",
+        "sla": {
+          "deliveryTime": 45,
+          "lastMileTravel": 2.9,
+          "serviceability": "SERVICEABLE",
+          "slaString": "40-45 mins",
+          "lastMileTravelString": "2.9 km",
+          "iconType": "ICON_TYPE_EMPTY"
+        },
+        "availability": {
+          "nextCloseTime": "2024-03-09 15:30:00",
+          "opened": true
+        },
+        "badges": {
+          
+        },
+        "isOpen": true,
+        "type": "F",
+        "badgesV2": {
+          "entityBadges": {
+            "imageBased": {
+              
+            },
+            "textBased": {
+              
+            },
+            "textExtendedBadges": {
+              
+            }
+          }
+        },
+        "aggregatedDiscountInfoV3": {
+          "header": "25% OFF",
+          "subHeader": "UPTO ₹65"
+        },
+        "differentiatedUi": {
+          "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+          "differentiatedUiMediaDetails": {
+            "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+            "lottie": {
+              
+            },
+            "video": {
+              
+            }
+          }
+        },
+        "reviewsSummary": {
+          
+        },
+        "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+        "restaurantOfferPresentationInfo": {
+          
+        }
+      },
+      "analytics": {
+        
+      },
+      "cta": {
+        "link": "https://www.swiggy.com/restaurants/dakshin-prem-bazar-inda-and-malancha-kharagpur-98788",
+        "type": "WEBLINK"
+      }
+    },
+    {
+      "info": {
+        "id": "470686",
+        "name": "Hotel Santosh",
+        "cloudinaryImageId": "jrgxzbqz0wje7ry84u1j",
+        "locality": "Gole Bazar Road",
+        "areaName": "Inda & Malancha",
+        "costForTwo": "₹200 for two",
+        "cuisines": [
+          "North Indian",
+          "Arabian"
+        ],
+        "avgRating": 4,
+        "parentId": "101966",
+        "avgRatingString": "4.0",
+        "totalRatingsString": "100+",
+        "sla": {
+          "deliveryTime": 46,
+          "lastMileTravel": 5,
+          "serviceability": "SERVICEABLE",
+          "slaString": "45-50 mins",
+          "lastMileTravelString": "5.0 km",
+          "iconType": "ICON_TYPE_EMPTY"
+        },
+        "availability": {
+          "nextCloseTime": "2024-03-09 15:45:00",
+          "opened": true
+        },
+        "badges": {
+          
+        },
+        "isOpen": true,
+        "type": "F",
+        "badgesV2": {
+          "entityBadges": {
+            "imageBased": {
+              
+            },
+            "textBased": {
+              
+            },
+            "textExtendedBadges": {
+              
+            }
+          }
+        },
+        "aggregatedDiscountInfoV3": {
+          "header": "15% OFF",
+          "subHeader": "UPTO ₹45"
+        },
+        "differentiatedUi": {
+          "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+          "differentiatedUiMediaDetails": {
+            "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+            "lottie": {
+              
+            },
+            "video": {
+              
+            }
+          }
+        },
+        "reviewsSummary": {
+          
+        },
+        "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+        "restaurantOfferPresentationInfo": {
+          
+        }
+      },
+      "analytics": {
+        
+      },
+      "cta": {
+        "link": "https://www.swiggy.com/restaurants/hotel-santosh-gole-bazar-road-inda-and-malancha-kharagpur-470686",
+        "type": "WEBLINK"
+      }
+    },
+    {
+      "info": {
+        "id": "752851",
+        "name": "Grameen Kulfi",
+        "cloudinaryImageId": "930b886678eb9de74b5a3150bdd0f405",
+        "locality": "Anandnagar",
+        "areaName": "Kharagpur Town Dist",
+        "costForTwo": "₹120 for two",
+        "cuisines": [
+          "Ice Cream",
+          "Desserts"
+        ],
+        "avgRating": 4.7,
+        "veg": true,
+        "parentId": "12175",
+        "avgRatingString": "4.7",
+        "totalRatingsString": "20+",
+        "sla": {
+          "deliveryTime": 53,
+          "lastMileTravel": 8.2,
+          "serviceability": "SERVICEABLE",
+          "slaString": "50-55 mins",
+          "lastMileTravelString": "8.2 km",
+          "iconType": "ICON_TYPE_EMPTY"
+        },
+        "availability": {
+          "nextCloseTime": "2024-03-09 23:00:00",
+          "opened": true
+        },
+        "badges": {
+          
+        },
+        "isOpen": true,
+        "type": "F",
+        "badgesV2": {
+          "entityBadges": {
+            "imageBased": {
+              
+            },
+            "textBased": {
+              
+            },
+            "textExtendedBadges": {
+              
+            }
+          }
+        },
+        "aggregatedDiscountInfoV3": {
+          "header": "60% OFF",
+          "subHeader": "UPTO ₹120"
+        },
+        "differentiatedUi": {
+          "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+          "differentiatedUiMediaDetails": {
+            "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+            "lottie": {
+              
+            },
+            "video": {
+              
+            }
+          }
+        },
+        "reviewsSummary": {
+          
+        },
+        "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+        "restaurantOfferPresentationInfo": {
+          
+        }
+      },
+      "analytics": {
+        
+      },
+      "cta": {
+        "link": "https://www.swiggy.com/restaurants/grameen-kulfi-anandnagar-kharagpur-town-dist-kharagpur-752851",
+        "type": "WEBLINK"
+      }
+    },
+    {
+      "info": {
+        "id": "711837",
+        "name": "Hotel Wonder Inn",
+        "cloudinaryImageId": "b4354613a947fdd8bee0d0d053f78313",
+        "locality": "Kharagpur",
+        "areaName": "Inda & Malancha",
+        "costForTwo": "₹400 for two",
+        "cuisines": [
+          "Chinese",
+          "Bengali",
+          "Indian",
+          "Fast Food",
+          "Continental",
+          "Beverages"
+        ],
+        "avgRating": 4.4,
+        "parentId": "425700",
+        "avgRatingString": "4.4",
+        "totalRatingsString": "50+",
+        "sla": {
+          "deliveryTime": 62,
+          "lastMileTravel": 9.4,
+          "serviceability": "SERVICEABLE",
+          "slaString": "60-65 mins",
+          "lastMileTravelString": "9.4 km",
+          "iconType": "ICON_TYPE_EMPTY"
+        },
+        "availability": {
+          "nextCloseTime": "2024-03-09 22:59:00",
+          "opened": true
+        },
+        "badges": {
+          
+        },
+        "isOpen": true,
+        "aggregatedDiscountInfoV2": {
+          
+        },
+        "type": "F",
+        "badgesV2": {
+          "entityBadges": {
+            "imageBased": {
+              
+            },
+            "textBased": {
+              
+            },
+            "textExtendedBadges": {
+              
+            }
+          }
+        },
+        "differentiatedUi": {
+          "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+          "differentiatedUiMediaDetails": {
+            "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+            "lottie": {
+              
+            },
+            "video": {
+              
+            }
+          }
+        },
+        "reviewsSummary": {
+          
+        },
+        "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+        "restaurantOfferPresentationInfo": {
+          
+        }
+      },
+      "analytics": {
+        
+      },
+      "cta": {
+        "link": "https://www.swiggy.com/restaurants/hotel-wonder-inn-inda-and-malancha-kharagpur-711837",
+        "type": "WEBLINK"
+      }
+    },
+    {
+      "info": {
+        "id": "462606",
+        "name": "Kathi Junction",
+        "cloudinaryImageId": "v2n8jj7jysbavkoij7il",
+        "locality": "IIT Main Road",
+        "areaName": "Inda & Malancha",
+        "costForTwo": "₹200 for two",
+        "cuisines": [
+          "North Indian",
+          "Indian",
+          "Snacks"
+        ],
+        "avgRating": 4.5,
+        "parentId": "1935",
+        "avgRatingString": "4.5",
+        "totalRatingsString": "100+",
+        "sla": {
+          "deliveryTime": 41,
+          "lastMileTravel": 4.9,
+          "serviceability": "SERVICEABLE",
+          "slaString": "40-45 mins",
+          "lastMileTravelString": "4.9 km",
+          "iconType": "ICON_TYPE_EMPTY"
+        },
+        "availability": {
+          "nextCloseTime": "2024-03-09 22:15:00",
+          "opened": true
+        },
+        "badges": {
+          
+        },
+        "isOpen": true,
+        "type": "F",
+        "badgesV2": {
+          "entityBadges": {
+            "imageBased": {
+              
+            },
+            "textBased": {
+              
+            },
+            "textExtendedBadges": {
+              
+            }
+          }
+        },
+        "aggregatedDiscountInfoV3": {
+          "header": "10% OFF",
+          "subHeader": "UPTO ₹40"
+        },
+        "differentiatedUi": {
+          "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+          "differentiatedUiMediaDetails": {
+            "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+            "lottie": {
+              
+            },
+            "video": {
+              
+            }
+          }
+        },
+        "reviewsSummary": {
+          
+        },
+        "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+        "restaurantOfferPresentationInfo": {
+          
+        }
+      },
+      "analytics": {
+        
+      },
+      "cta": {
+        "link": "https://www.swiggy.com/restaurants/kathi-junction-iit-main-road-inda-and-malancha-kharagpur-462606",
+        "type": "WEBLINK"
+      }
+    },
+    {
+      "info": {
+        "id": "646341",
+        "name": "Haldiram's Prabhuji",
+        "cloudinaryImageId": "5a37d749fdbc3358d98c2c6d88017faa",
+        "locality": "Kharagpur City Rd",
+        "areaName": "Inda & Malancha",
+        "costForTwo": "₹450 for two",
+        "cuisines": [
+          "Street Food",
+          "North Indian",
+          "Chinese",
+          "South Indian",
+          "Chaat",
+          "Bakery"
+        ],
+        "avgRating": 4.2,
+        "veg": true,
+        "parentId": "2945",
+        "avgRatingString": "4.2",
+        "totalRatingsString": "500+",
+        "sla": {
+          "deliveryTime": 51,
+          "lastMileTravel": 8.2,
+          "serviceability": "SERVICEABLE",
+          "slaString": "50-55 mins",
+          "lastMileTravelString": "8.2 km",
+          "iconType": "ICON_TYPE_EMPTY"
+        },
+        "availability": {
+          "nextCloseTime": "2024-03-09 21:00:00",
+          "opened": true
+        },
+        "badges": {
+          
+        },
+        "isOpen": true,
+        "type": "F",
+        "badgesV2": {
+          "entityBadges": {
+            "imageBased": {
+              
+            },
+            "textBased": {
+              
+            },
+            "textExtendedBadges": {
+              
+            }
+          }
+        },
+        "aggregatedDiscountInfoV3": {
+          "header": "40% OFF",
+          "subHeader": "UPTO ₹80"
+        },
+        "differentiatedUi": {
+          "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+          "differentiatedUiMediaDetails": {
+            "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+            "lottie": {
+              
+            },
+            "video": {
+              
+            }
+          }
+        },
+        "reviewsSummary": {
+          
+        },
+        "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+        "restaurantOfferPresentationInfo": {
+          
+        }
+      },
+      "analytics": {
+        
+      },
+      "cta": {
+        "link": "https://www.swiggy.com/restaurants/haldirams-prabhuji-city-rd-inda-and-malancha-kharagpur-646341",
+        "type": "WEBLINK"
+      }
+    },
+    {
+      "info": {
+        "id": "405063",
+        "name": "Chai Sutta Bar",
+        "cloudinaryImageId": "xn3mwljw4h8mv2loq3bn",
+        "locality": "IIT Main Road",
+        "areaName": "Inda & Malancha",
+        "costForTwo": "₹200 for two",
+        "cuisines": [
+          "Continental",
+          "Italian",
+          "Pizzas",
+          "Beverages"
+        ],
+        "avgRating": 4.1,
+        "parentId": "14909",
+        "avgRatingString": "4.1",
+        "totalRatingsString": "500+",
+        "sla": {
+          "deliveryTime": 48,
+          "lastMileTravel": 4.9,
+          "serviceability": "SERVICEABLE",
+          "slaString": "45-50 mins",
+          "lastMileTravelString": "4.9 km",
+          "iconType": "ICON_TYPE_EMPTY"
+        },
+        "availability": {
+          "nextCloseTime": "2024-03-09 21:45:00",
+          "opened": true
+        },
+        "badges": {
+          
+        },
+        "isOpen": true,
+        "type": "F",
+        "badgesV2": {
+          "entityBadges": {
+            "imageBased": {
+              
+            },
+            "textBased": {
+              
+            },
+            "textExtendedBadges": {
+              
+            }
+          }
+        },
+        "aggregatedDiscountInfoV3": {
+          "header": "₹125 OFF",
+          "subHeader": "ABOVE ₹199",
+          "discountTag": "FLAT DEAL"
+        },
+        "differentiatedUi": {
+          "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+          "differentiatedUiMediaDetails": {
+            "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+            "lottie": {
+              
+            },
+            "video": {
+              
+            }
+          }
+        },
+        "reviewsSummary": {
+          
+        },
+        "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+        "restaurantOfferPresentationInfo": {
+          
+        }
+      },
+      "analytics": {
+        
+      },
+      "cta": {
+        "link": "https://www.swiggy.com/restaurants/chai-sutta-bar-iit-main-road-inda-and-malancha-kharagpur-405063",
+        "type": "WEBLINK"
+      }
+    },
+    {
+      "info": {
+        "id": "752850",
+        "name": "NIC Ice Creams",
+        "cloudinaryImageId": "85825a6d74b1059a63a9b688de9f67ce",
+        "locality": "Anandnagar",
+        "areaName": "Kharagpur Town Dist",
+        "costForTwo": "₹120 for two",
+        "cuisines": [
+          "Ice Cream",
+          "Desserts"
+        ],
+        "avgRating": 4.7,
+        "veg": true,
+        "parentId": "6249",
+        "avgRatingString": "4.7",
+        "totalRatingsString": "100+",
+        "sla": {
+          "deliveryTime": 45,
+          "lastMileTravel": 8.2,
+          "serviceability": "SERVICEABLE",
+          "slaString": "45-50 mins",
+          "lastMileTravelString": "8.2 km",
+          "iconType": "ICON_TYPE_EMPTY"
+        },
+        "availability": {
+          "nextCloseTime": "2024-03-09 23:00:00",
+          "opened": true
+        },
+        "badges": {
+          
+        },
+        "isOpen": true,
+        "type": "F",
+        "badgesV2": {
+          "entityBadges": {
+            "imageBased": {
+              
+            },
+            "textBased": {
+              
+            },
+            "textExtendedBadges": {
+              
+            }
+          }
+        },
+        "aggregatedDiscountInfoV3": {
+          "header": "ITEMS",
+          "subHeader": "AT ₹169"
+        },
+        "differentiatedUi": {
+          "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+          "differentiatedUiMediaDetails": {
+            "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+            "lottie": {
+              
+            },
+            "video": {
+              
+            }
+          }
+        },
+        "reviewsSummary": {
+          
+        },
+        "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+        "restaurantOfferPresentationInfo": {
+          
+        }
+      },
+      "analytics": {
+        
+      },
+      "cta": {
+        "link": "https://www.swiggy.com/restaurants/nic-ice-creams-anandnagar-kharagpur-town-dist-kharagpur-752850",
+        "type": "WEBLINK"
+      }
+    }
+  ]

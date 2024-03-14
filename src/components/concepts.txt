@@ -1,0 +1,34 @@
+Reconcillation Algorithm-
+
+1. Also called react fiber.
+2. Suppose we have res-container which has 15 cards, now let us apply a filter to filter out 5 cards,
+    React will build a virtual DOM which is a representation of actual DOM. Diff Algorithm finds the difference
+    between the two DOMs, and then updates the UI.
+
+
+Monolith vs Micro services Architecture
+
+1. Diferent services for different jobs--> Microservices. All these services combined together form a whole
+   App. This is called separation of consoles or single responsibilty principle. This React Project is a part 
+   of UI MicroService.
+   How do these services interact with each other?
+   -All these services are deployed on different ports, at the end all these ports can be mapped to the domain.
+
+
+
+State Variables
+
+useState
+    // State Variables (Hooks)--> Normal JS Function, giving some utilities.
+    // Local State Variable's Scope is inside the Component only.
+    // Whenever a state variable changes, react re-renders this component.
+
+useEffect
+    //Takes two parameters, a callback function and a dependency array.
+    // The body component renders and then the callback function of use effect will be called.
+    // Load -> Render -> Api Call 
+    // first static data will be loaded and then live data from fetch api
+
+    // if no dependency array --> after every render of component
+    // if empty dependency array--> only initial render
+    // if not empty--> initially, after every instance of dependency update
